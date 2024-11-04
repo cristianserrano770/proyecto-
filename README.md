@@ -30,7 +30,7 @@ A continuación, se presentan algunas imágenes del proyecto en desarrollo:
 Para más detalles, revisa la documentación completa en los siguientes archivos:
 
 - [Manual del Usuario](ruta/a/manual_usuario.pdf)
-- [Especificaciones Técnicas](ruta/a/especificaciones_tecnicas.pdf)
+- [Especificaciones Técnicas](https://github.com/cristianserrano770/proyecto-/blob/26c26520733b6d72ef08d65daee4ccaf9e7596cf/proyecto%20robot%20agricola/documentos/formato-presentacion-Proyecto%20robot%20agricola%20sas.pdf)
 
 > **Nota:** Sube los documentos al repositorio y ajusta las rutas según la ubicación de los archivos.
 
