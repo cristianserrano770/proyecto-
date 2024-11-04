@@ -10,9 +10,11 @@ Este proyecto se orienta principalmente en el agro colombiano y específicamente
 ## Contenido
 
 - [Descripción](#descripción)
+- [Objetivos del proyecto](#Objetivos)
 - [Galería](#galería)
 - [Documentación](#documentación)
 - [Contacto](#contacto)
+
 
 
 
@@ -37,6 +39,37 @@ El propósito del proyecto se basa fundamentalmente en aumentar la eficiencia y 
 La inclusión de robots agrícolas brinda al agricultor de la zona un acceso más directo hacia tecnologías avanzadas que, de otro modo, podría fácilmente estar fuera de su alcance debido a diferentes factores, esto fomentará la modernización y competitividad de la agricultura colombiana en el mercado global a futuro.
 
 En este proyecto se evidencia la contribución al desarrollo sostenible de las comunidades rurales en Cundinamarca, como también se ve reflejada la innovación en la agricultura actual la cual contribuye a la capacitación y educación en nuevas tecnologías agrícolas para enfrentar diferentes desafíos modernos.
+
+
+
+
+
+## Objetivos
+
+**Objetivo General**
+Construir un vehículo autómata que optimice los métodos convencionales, artesanales y tradicionales de la siembra de semillas de maíz 
+
+
+**Objetivos Específicos**
+•	Diseñar plano grafía de las partes de un robot agrícola.
+•	Investigar sobre los diferentes dispositivos electrónicos y mecánicos que faciliten y se adapten a las necesidades del robot basado en algunos requerimientos mínimos.
+•	Implementar un robot agrícola con la tecnología apropiada que permita mejorar y optimizar los procesos de siembra en el agro.
+•	Optimizar el uso de los recursos como las semillas y el agua que se utilice para el cultivo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Galería
