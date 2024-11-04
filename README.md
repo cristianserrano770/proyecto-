@@ -2,6 +2,11 @@
 
 Bienvenidos al proyecto **Robot Agrícola SAS**. Este proyecto está dedicado a desarrollar soluciones innovadoras para la automatización en la agricultura mediante robótica avanzada.
 
+
+https://github.com/cristianserrano770/proyecto-/blob/main/WhatsApp%20Image%202024-02-14%20at%209.26.06%20AM.jpeg#:~:text=Pan%20rallado-,proyecto%2D,del%2014%20de%20febrero%20de%202024%20a%20las%209.26.06%20a.%20m.,-%C3%9Altimo%20commit
+
+
+
 ## Contenido
 
 - [Descripción](#descripción)
