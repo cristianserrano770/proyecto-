@@ -28,7 +28,7 @@ Para más detalles, revisa la documentación completa en los siguientes archivos
 
 - [Manual del Usuario](ruta/a/manual_usuario.pdf)
 - [Especificaciones Técnicas](ruta/a/especificaciones_tecnicas.pdf)
-- iNFORME 1234567.docx
+- PLANTILLA PROYECTO.docx
 
 > **Nota:** Sube los documentos al repositorio y ajusta las rutas según la ubicación de los archivos.
 
