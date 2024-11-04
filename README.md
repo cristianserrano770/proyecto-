@@ -13,8 +13,10 @@ Este proyecto se orienta principalmente en el agro colombiano y específicamente
 - [Objetivos del proyecto](#Objetivos)
 - [Metodologia de trabajo](#Metodologia)
 - [Galería](#galería)
+- [Especificaciones](#Especificaciones)
 - [Documentación](#documentación)
 - [Contacto](#contacto)
+
 
 
 
@@ -170,6 +172,105 @@ A continuación, se presentan algunas imágenes del proyecto en desarrollo:
 
 
 
+
+
+
+
+## Especificaciones
+
+1.	Material Chasis Acrílico de 2.5 mm
+
+2.	Material Orugas: plástico alta resistencia
+
+3.	Dimensiones 20 x 12 cm (Tapa superior)
+
+4.	Moto-reductores: 3 a 9 VDC 200RPM
+
+5.	Torque por motor 0.5kg/cm
+
+6.	Torque total: 1 kg/cm
+
+7.	Orugas: Tamiya 70100
+
+8.	Brazo Robótico: 3 Grados de Libertad.
+
+9.	Servos Brazo Robótico: SG90
+
+**EL KIT INCLUYE:**
+
+10.	1 x Chasis en acrílico compuesto por:
+
+11.	1 x base superior
+
+12.	1 x base inferior
+
+13.	2 x piezas laterales
+
+14.	4 x sujetadores motorreductor
+
+15.	2 x piezas plásticas para ubicación de ejes
+
+16.	2 x piezas plásticas de acople de los motorreductores
+
+17.	1 x Kit Ruedas tipo Oruga Tamiya 70100
+
+18.	2 x motorreductor amarillo 48:1
+
+19.	4 x Jumpers Macho Macho 20 cm
+
+20.	2 x Termoencogible 20 mm de 2.5 cm de largo
+
+21.	4 x Espaciadores de 35 mm
+
+**Tornillería:**
+
+22.	2 tornillos de 50 mm
+
+23.	2 tuercas especiales
+
+24.	8 tornillos M3 de 6mm
+
+25.	12 tornillos M3 de 8 mm
+
+26.	12 tuercas M3
+
+**Componentes brazo Robótico:**
+
+27.	3 Láminas de Acrílico que contienen las piezas para el ensamble.
+
+28.	4x Micro Servo SG90
+
+29.	Tornillería y tuercas:
+
+30.	Tornillo Cantidad
+
+31.	6 mm 10
+
+32.	8 mm 15
+
+33.	10 mm 6
+
+34.	12 mm 1
+
+35.	10 mm Avellanado 8
+
+36.	Tuercas 6
+
+37.	4 x Separadores de Teflón
+
+**Sensores:** 
+
+38.	Sensor Ultrasónico o LIDAR
+
+39.	Sensor Óptico
+
+40.	Sensor de Humedad del Suelo
+
+41.	Sensor de Temperatura y Humedad Relativa
+
+42.	Sensor Infrarrojo o Láser
+
+43.	Sensores de Presión en Ruedas u Orugas
 
 
 
