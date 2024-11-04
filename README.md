@@ -11,6 +11,7 @@ Este proyecto se orienta principalmente en el agro colombiano y específicamente
 
 - [Descripción](#descripción)
 - [Objetivos del proyecto](#Objetivos)
+- [Metodologia de trabajo](#Metodologia)
 - [Galería](#galería)
 - [Documentación](#documentación)
 - [Contacto](#contacto)
@@ -67,9 +68,10 @@ Construir un vehículo autómata que optimice los métodos convencionales, artes
 
 
 
+## Metodologia
 
 
-
+![Imagen de ilustracion de la metodologia ](https://github.com/cristianserrano770/proyecto-/blob/main/proyecto%20robot%20agricola/imagenes/metodologia.png?raw=true)
 
 
 
