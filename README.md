@@ -31,6 +31,14 @@ Este proyecto se orienta principalmente en el agro colombiano y específicamente
 
 Robot Agrícola SAS se enfoca en crear un robot autónomo capaz de realizar tareas agrícolas de manera eficiente, optimizando los recursos y maximizando la productividad.
 
+
+El propósito del proyecto se basa fundamentalmente en aumentar la eficiencia y productividad en pequeños agricultores de la zona de Cundinamarca a la hora de la siembra y monitoreo de cultivos en la zona, esto traerá consigo una producción más abundante y de mayor calidad sin depender de una intervención humana constante.
+
+La inclusión de robots agrícolas brinda al agricultor de la zona un acceso más directo hacia tecnologías avanzadas que, de otro modo, podría fácilmente estar fuera de su alcance debido a diferentes factores, esto fomentará la modernización y competitividad de la agricultura colombiana en el mercado global a futuro.
+
+En este proyecto se evidencia la contribución al desarrollo sostenible de las comunidades rurales en Cundinamarca, como también se ve reflejada la innovación en la agricultura actual la cual contribuye a la capacitación y educación en nuevas tecnologías agrícolas para enfrentar diferentes desafíos modernos.
+
+
 ## Galería
 
 A continuación, se presentan algunas imágenes del proyecto en desarrollo:
