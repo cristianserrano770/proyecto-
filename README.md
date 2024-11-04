@@ -79,26 +79,26 @@ Construir un vehículo autómata que optimice los métodos convencionales, artes
 
 •	Desarrollo de metodología de investigación: 
 
-a.	Planificación del Ciclo 1 
+**a.	Planificación del Ciclo 1** 
 
-•	Objetivos: Construir un vehículo autómata que optimice los métodos convencionales, artesanales y tradicionales de la siembra de semillas de maíz.
+**•	Objetivos:** Construir un vehículo autómata que optimice los métodos convencionales, artesanales y tradicionales de la siembra de semillas de maíz.
 
-•	Alternativas: Analiza distintas metodologías o enfoques para tu investigación (cuantitativo, cualitativo o mixto). Escoge el que mejor se adecue a las preguntas de investigación.
+**•	Alternativas:** Analiza distintas metodologías o enfoques para tu investigación (cuantitativo, cualitativo o mixto). Escoge el que mejor se adecue a las preguntas de investigación.
 
-•	Restricciones: Las restricciones generales de un proyecto incluyen el tiempo, los costos y el alcance. Comprender estas restricciones es importante porque afectan el resultado del proyecto.
+**•	Restricciones:** Las restricciones generales de un proyecto incluyen el tiempo, los costos y el alcance. Comprender estas restricciones es importante porque afectan el resultado del proyecto.
 
-Tiempo: 2 años y medio
+**Tiempo:** 2 años y medio
 
 Durante el presente semestre, nuestra prioridad se centra en la elaboración de un pre-diseño de nuestro proyecto. Esta estrategia se fundamenta en el entendimiento de que a medida que avanzan los ciclos académicos, iremos adquiriendo el conjunto de conocimientos esenciales que habrán de respaldar nuestro progreso en el desarrollo del prototipo. Sin embargo, es importante resaltar que nuestros avances futuros estarán íntimamente ligados a los objetivos previamente establecidos por el equipo de trabajo.
 
-Costos: 500.000$
+**Costos:** 500.000$
 
-Alcance: Tenemos proyectado a lo largo de este semestre principalmente adquirir los conocimientos necesarios para pre-diseñar el prototipo de nuestro robot autómata y en base a ello tener un avance progresivo a lo largo de los semestres puesto que tendremos mayor información e iremos delimitando el real alcance del proyecto.
+**Alcance:** Tenemos proyectado a lo largo de este semestre principalmente adquirir los conocimientos necesarios para pre-diseñar el prototipo de nuestro robot autómata y en base a ello tener un avance progresivo a lo largo de los semestres puesto que tendremos mayor información e iremos delimitando el real alcance del proyecto.
 
 
-b.	 Análisis de Riesgos
+**b.	 Análisis de Riesgos**
 
-Identificación de riesgos: Evalúa los posibles desafíos. En investigación, los riesgos pueden ser: 
+**Identificación de riesgos:** En investigación, los riesgos pueden ser: 
 
 1.	Falta de acceso a datos.
 
@@ -113,11 +113,11 @@ Identificación de riesgos: Evalúa los posibles desafíos. En investigación, l
 
 
 
-Mitigación de riesgos: Diseñar formas de minimizar los riesgos. 
+**Mitigación de riesgos:** Diseñar formas de minimizar los riesgos. 
 
-c.	Desarrollo y Prueba
+**c.	Desarrollo y Prueba**
 
-Ejecución del plan: 
+**Ejecución del plan:** 
 
 1.	Diseños de prototipo. 
 
@@ -131,13 +131,13 @@ Ejecución del plan:
 
 6.	Simulaciones en plataforma de tinkercad.
 
-Pruebas: Analiza los resultados preliminares de tu investigación. Por ejemplo, si estás realizando un experimento, revisa si los resultados son consistentes o si las variables están bien controladas. (PROXIMAMENTE)
+**Pruebas:** Analiza los resultados preliminares de tu investigación. Por ejemplo, si estás realizando un experimento, revisa si los resultados son consistentes o si las variables están bien controladas. (PROXIMAMENTE)
 
-d.	Evaluación
+**d.	Evaluación**
 
-Retroalimentación: Revisa los resultados obtenidos y ajusta tu investigación según los hallazgos. Podrías necesitar refinar tu metodología, ajustar el enfoque o incluso modificar la pregunta de investigación.
+**Retroalimentación:** Revisa los resultados obtenidos y ajusta tu investigación según los hallazgos. Podrías necesitar refinar tu metodología, ajustar el enfoque o incluso modificar la pregunta de investigación.
 
-Plan para el siguiente ciclo: Una vez evaluado, planifica el siguiente ciclo, que podría abordar otra fase, como el análisis de datos o escribir el borrador del informe.
+**Plan para el siguiente ciclo:** Una vez evaluado, planifica el siguiente ciclo, que podría abordar otra fase, como el análisis de datos o escribir el borrador del informe.
 
 
 
