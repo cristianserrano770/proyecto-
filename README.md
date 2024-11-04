@@ -315,4 +315,6 @@ Para más detalles, revisa la documentación completa en los siguientes archivos
 
 ## Contacto
 
-Para más información, puedes contactarnos en el correo: contacto@robotagricola.com
+Para más información, puedes contactarnos en el correo: cfserranot@academia.usbbog.edu.co
+
+**Estaremos encantados en resolver tus dudas e inquietudes**
