@@ -1,1 +1,9 @@
+robot-agricola-sas/
+├── images/
+│   ├── robot1.jpg
+│   └── esquema_robot.jpg
+├── docs/
+│   ├── manual_usuario.pdf
+│   └── especificaciones_tecnicas.pdf
+└── README.md
 
