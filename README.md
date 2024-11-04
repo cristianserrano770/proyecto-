@@ -1,7 +1,8 @@
 # Robot Agrícola SAS
 
 Bienvenidos al proyecto **Robot Agrícola SAS**. Este proyecto está dedicado a desarrollar soluciones innovadoras para la automatización en la agricultura mediante robótica avanzada.
-
+Un **robot agrícola automatizado** es un dispositivo diseñado para llevar a cabo tareas muy puntuales en la agricultura sin que se vea involucrada la intervención humana constante. Dichos robots cuentan con componentes tales como: sensores, actuadores y software avanzado que permite realizar una gran variedad de tareas agrícolas como la siembra, cosecha, pulverización de cultivos, monitoreo de condiciones ambientales entre otras.
+Este proyecto se orienta principalmente en el agro colombiano y específicamente en pequeños agricultores de la zona de Cundinamarca, esto con la finalidad de optimizar y promover el desarrollo de las comunidades a partir de la inclusión de nuevas tecnologías y procesos que ayudaran a facilitar el mantenimiento de sus cultivos con mejores métodos confiables de menor costo. 
 
 
 ## Contenido
@@ -10,6 +11,19 @@ Bienvenidos al proyecto **Robot Agrícola SAS**. Este proyecto está dedicado a 
 - [Galería](#galería)
 - [Documentación](#documentación)
 - [Contacto](#contacto)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Descripción
 
