@@ -20,7 +20,7 @@ Robot Agrícola SAS se enfoca en crear un robot autónomo capaz de realizar tare
 A continuación, se presentan algunas imágenes del proyecto en desarrollo:
 
 ![Foto del robot en acción](ruta/a/tu-imagen1.jpg)
-![Esquema del robot](ruta/a/tu-imagen2.jpg)
+![Esquema del robot](https://github.com/cristianserrano770/proyecto-/blob/main/proyecto%20robot%20agricola/imagenes/Powerful%20Gaaris-Hango%20(1).png?raw=true)
 
 
 > **Nota:** Para añadir imágenes, sube los archivos al repositorio y reemplaza `ruta/a/tu-imagen1.jpg` con la ruta correcta del archivo subido.
