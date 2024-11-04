@@ -19,6 +19,7 @@ A continuación, se presentan algunas imágenes del proyecto en desarrollo:
 
 ![Foto del robot en acción](ruta/a/tu-imagen1.jpg)
 ![Esquema del robot](ruta/a/tu-imagen2.jpg)
+WhatsApp Image 2024-02-14 at 9.26.06 AM.jpeg
 
 > **Nota:** Para añadir imágenes, sube los archivos al repositorio y reemplaza `ruta/a/tu-imagen1.jpg` con la ruta correcta del archivo subido.
 
