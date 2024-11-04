@@ -47,10 +47,12 @@ En este proyecto se evidencia la contribución al desarrollo sostenible de las c
 ## Objetivos
 
 **Objetivo General**
+
 Construir un vehículo autómata que optimice los métodos convencionales, artesanales y tradicionales de la siembra de semillas de maíz 
 
 
 **Objetivos Específicos**
+
 •	Diseñar plano grafía de las partes de un robot agrícola.
 
 •	Investigar sobre los diferentes dispositivos electrónicos y mecánicos que faciliten y se adapten a las necesidades del robot basado en algunos requerimientos mínimos.
