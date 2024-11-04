@@ -14,6 +14,7 @@ Este proyecto se orienta principalmente en el agro colombiano y específicamente
 - [Metodologia de trabajo](#Metodologia)
 - [Galería](#galería)
 - [Especificaciones](#Especificaciones)
+- [Caracteristicas y beneficios](#Caracteristicas_y_beneficios)
 - [Documentación](#documentación)
 - [Contacto](#contacto)
 
@@ -275,6 +276,25 @@ A continuación, se presentan algunas imágenes del proyecto en desarrollo:
 
 
 
+
+
+## Caracteristicas_y_beneficios
+
+**Características** 
+
+•	Autonomía
+
+•	Sensores y cámaras
+
+•	GPS y mapeo 
+
+**Beneficios**   
+
+•	Eficiencia 
+
+•	Reducción de costos 
+
+•	Sostenibilidad 
 
 
 
