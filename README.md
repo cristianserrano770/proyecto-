@@ -4,7 +4,7 @@ Bienvenidos al proyecto **Robot Agrícola SAS**. Este proyecto está dedicado a 
 
 
 https://github.com/cristianserrano770/proyecto-/blob/main/WhatsApp%20Image%202024-02-14%20at%209.26.06%20AM.jpeg
-
+WhatsApp Image 2024-02-14 at 9.26.06 AM.jpeg
 https://github.com/cristianserrano770/proyecto-/blob/3a702d38c6b86b7e6373345f29d8f251af2b41d1/WhatsApp%20Image%202024-02-14%20at%209.26.06%20AM.jpeg
 
 ## Contenido
