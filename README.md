@@ -77,7 +77,7 @@ Construir un vehículo autómata que optimice los métodos convencionales, artes
 
 
 
-•	Desarrollo de metodología de investigación: 
+**•	Desarrollo de metodología de investigación:** 
 
 **a.	Planificación del Ciclo 1** 
 
